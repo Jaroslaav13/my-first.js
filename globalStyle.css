@@ -13,7 +13,7 @@ img {
 
 body {
     font-family: "Roboto", sans-serif;
-    color: silver;
+    color: rgb(18, 17, 17);
     background-color: rgb(164, 145, 115);
     width: 100%;
     padding-left: 15px;
@@ -45,4 +45,13 @@ button{
 li {
     list-style: none;
     margin-bottom: 15px;
+}
+span{
+    border: 2px solid #000;
+    padding: 45px 45px;
+    border-radius: 35px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-weight: 500;
+     line-height: 1.5;
 }
