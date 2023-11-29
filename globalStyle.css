@@ -1,0 +1,48 @@
+ul {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-left: 25px;
+
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: silver;
+    background-color: rgb(164, 145, 115);
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+     margin: 0 auto;
+
+}
+
+button{
+    color: white;
+        font-size: 16px;
+        font-family: inherit;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        background: blue;
+        cursor: pointer;
+        display: block;
+        margin: 0 auto;
+        padding: 16px 32px;
+        border-radius: 4px;
+        min-width: 169px;
+        height: 56px;
+        border: none;
+        
+}
+
+
+li {
+    list-style: none;
+    margin-bottom: 15px;
+}
