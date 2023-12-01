@@ -22,3 +22,17 @@ const onCreatList = ingredients.map(ingridient => {
 })
 listIngridients.append(...onCreatList);
 
+// const ingredients = ['Potatoes', 'Mushrooms', 'Garlic', 'Tomatos', 'Herbs', 'Condiments'];
+
+// function createLi() {
+//   ingredients.forEach(el => {
+//     const father = document.querySelector('#ingredients');
+//     const newChild = document.createElement('li');
+
+//     father.append(newChild);
+//   });
+//   document.querySelectorAll('li').forEach(el => el.classList.add('item'));
+// }
+
+// createLi();
+

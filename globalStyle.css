@@ -46,7 +46,7 @@ li {
     list-style: none;
     margin-bottom: 15px;
 }
-span{
+/* span{
     border: 2px solid #000;
     padding: 45px 45px;
     border-radius: 35px;
@@ -54,4 +54,18 @@ span{
     font-size: 30px;
     font-weight: 500;
      line-height: 1.5;
+} */
+
+#validation-input {
+    border: 3px solid #bdbdbd;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+#validation-input.valid {
+    border-color: #4caf50;
+}
+
+#validation-input.invalid {
+    border-color: #f44336;
 }
